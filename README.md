@@ -64,5 +64,5 @@ Create a ROS2 subscriber that:
 - Provide a screenshot displaying the topic output in the terminal.
 
 ## Resources : 
-Docs for ROS2 publisher and subscriber(ROS2 Jazzy) : [ROS2 PUB-SUB DOCUMENTATION](https://https://docs.ros.org/en/jazzy/Tutorials/Beginner-Client-Libraries/Writing-A-Simple-Py-Publisher-And-Subscriber.html)
+Docs for ROS2 publisher and subscriber(ROS2 Jazzy) : [ROS2 PUB-SUB DOCUMENTATION](https://docs.ros.org/en/jazzy/Tutorials/Beginner-Client-Libraries/Writing-A-Simple-Py-Publisher-And-Subscriber.html)
 
